@@ -5,10 +5,10 @@
 **A curated collection of powerful web-based developer tools and utilities**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://iamomi.github.io/devpad/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://hoaxnerd.github.io/devpad/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Live Demo](https://iamomi.github.io/devpad/) • [Report Bug](https://github.com/iamomi/devpad/issues) • [Request Feature](https://github.com/iamomi/devpad/issues)
+[Live Demo](https://hoaxnerd.github.io/devpad/) • [Report Bug](https://github.com/hoaxnerd/devpad/issues) • [Request Feature](https://github.com/hoaxnerd/devpad/issues)
 
 </div>
 
@@ -50,57 +50,57 @@
 
 Master CSS layouts with interactive, real-time visualization tools.
 
-- **CSS Flexbox Playground X** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/css-visualizers/flexbox-playground/)  
+- **CSS Flexbox Playground X** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/css-visualizers/flexbox-playground/)  
   Master Flexbox layouts with interactive controls for all flex properties.
 
-- **CSS Grid Layout Architect** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/css-visualizers/css-grid-architect/)  
+- **CSS Grid Layout Architect** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/css-visualizers/css-grid-architect/)  
   Design complex grid layouts visually with drag-and-drop functionality.
 
 ### DOM Manipulation
 
 Explore and understand browser DOM APIs and event systems.
 
-- **Advanced Event Inspector Pro** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/dom-manipulation/event-inspector/)  
+- **Advanced Event Inspector Pro** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/dom-manipulation/event-inspector/)  
   Visualize event propagation (bubbling/capturing) in real-time with interactive diagrams.
 
-- **Hyper Window.open() Test Pad X** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/window-management/window-open-tester/)  
+- **Hyper Window.open() Test Pad X** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/window-management/window-open-tester/)  
   Test `window.open()` features, parameters, and popup behaviors.
 
 ### Network Inspectors
 
 Debug and test network-related functionality.
 
-- **CORS & HTTP Headers Simulator** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/network-inspectors/cors-tester/)  
+- **CORS & HTTP Headers Simulator** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/network-inspectors/cors-tester/)  
   Simulate and test CORS requests, headers, and cross-origin scenarios.
 
 ### Storage Explorers
 
 Manage and inspect browser storage mechanisms.
 
-- **LocalStorage & SessionStorage Explorer X** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/storage-explorers/localstorage-manager/)  
+- **LocalStorage & SessionStorage Explorer X** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/storage-explorers/localstorage-manager/)  
   Manage web storage with full CRUD operations and JSON editing capabilities.
 
 ### Text Processing
 
 Powerful text manipulation and conversion utilities.
 
-- **Regex Tester & Visualizer Pro** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/text-processing/regex-tester/)  
+- **Regex Tester & Visualizer Pro** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/text-processing/regex-tester/)  
   Test regular expressions with real-time highlighting and match visualization.
 
-- **Markdown Previewer with Export** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/text-processing/markdown-previewer/)  
+- **Markdown Previewer with Export** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/text-processing/markdown-previewer/)  
   Live Markdown editor with HTML export and print support.
 
-- **Base64 Encoder/Decoder** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/text-processing/base64-tool/)  
+- **Base64 Encoder/Decoder** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/text-processing/base64-tool/)  
   Convert text and files to/from Base64 encoding with ease.
 
-- **JSON Formatter & Validator** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/text-processing/json-formatter/)  
+- **JSON Formatter & Validator** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/text-processing/json-formatter/)  
   Format, validate, and minify JSON with syntax highlighting.
 
 ### Security
 
 Security-focused tools for modern web development.
 
-- **JWT Debugger & Decoder** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://iamomi.github.io/devpad/tools/frontend/security/jwt-debugger/)  
+- **JWT Debugger & Decoder** [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://hoaxnerd.github.io/devpad/tools/frontend/security/jwt-debugger/)  
   Decode and verify JSON Web Tokens locally with full payload inspection.
 
 ---
@@ -111,7 +111,7 @@ Security-focused tools for modern web development.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/iamomi/devpad.git
+   git clone https://github.com/hoaxnerd/devpad.git
    cd devpad
    ```
 
@@ -131,7 +131,7 @@ Security-focused tools for modern web development.
 
 ### Direct Usage
 
-Simply visit the [live demo](https://iamomi.github.io/devpad/) and start using any tool instantly!
+Simply visit the [live demo](https://hoaxnerd.github.io/devpad/) and start using any tool instantly!
 
 ---
 
